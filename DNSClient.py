@@ -1,5 +1,4 @@
 # Kyle Bethel
-# cant commit properly
 
 import dns.resolver
 
